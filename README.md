@@ -7,7 +7,7 @@ This repository consists of 2 projects:
 
 Both the projects are aimed at improving 2 aspects of further studies and project work in the club: the better choosing of a motor propellor combination and a stand-in aircraft for all sorts of technology and equipment testing.
 
-Both projects are initiated and worked on by members of the aerodynamics club, and mostly by students of the 2019 batch. \&lt;Contact details daalna yahaan?\&gt;
+Both projects are initiated and worked on by members of the aerodynamics club, and mostly by students of the 2019 batch. For any doubts or queries please feel free to open an issue or contact Ishan Neogi : 99536 76045, 
 
 ## Static Thrust Test Stand
 
